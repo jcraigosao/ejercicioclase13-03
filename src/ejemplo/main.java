@@ -24,7 +24,7 @@ public class main {
         p1.setPrecio(5000);
         
         producto p2= new producto();
-        p2.setNombre("gaseosa");
+        p2.setNombre("papas");
         p2.setPrecio(2000);
         
         fact.adicionarproducto(p1);
